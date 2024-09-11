@@ -100,11 +100,38 @@ string
 woodwind
 string
 ```
+### Control Structure
+```
+$ ruby if.rb
+Go to work
+```
+
+```
+$ ruby while.rb
+1
+2
+3
+4
+5
+1
+2
+3
+```
+
+```
+$ ruby statement_modifier.rb
+Danger, Will Robinson
+Danger, Will Robinson
+16
+256
+65536
+65536
+```
 ### Methods
 #### Method Name
 #### super
 ### Symbols
-### Control Structure
+
 ### Statement Modifier
 ### Blocks
 ### Commenting Ruby
