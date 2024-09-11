@@ -67,10 +67,42 @@ Hello World!
 Good morning! Mac
 ```
 
+### Array, Hash and Symbol
+```
+$ ruby array.rb
+the first element is 1
+the array is now [1, "cat", nil]
+```
+
+```
+$ ruby hash.rb
+woodwind
+string
+
+0
+1
+```
+
+```
+$ ruby symbol.rb
+hello
+hello
+Symbol
+You are going north
+You are going south
+```
+
+```
+$ ruby hash_with_symbol_keys.rb
+woodwind
+string
+
+woodwind
+string
+```
 ### Methods
 #### Method Name
 #### super
-### Array and Hash
 ### Symbols
 ### Control Structure
 ### Statement Modifier
