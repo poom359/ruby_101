@@ -127,17 +127,66 @@ Danger, Will Robinson
 65536
 65536
 ```
+### Blocks
+```
+$ ruby basics.rb
+hello
+hello
+hello
+hello
+hello
+hello
+hi there
+Start of method
+In the block
+In the block
+End of method
+```
+
+```
+$ ruby block_with_arguments.rb
+Dave says hello
+Andy says goodbye
+```
+### Classes and Objects
+```
+$ ruby person.rb
+Hello, my name is Alice and I am 30 years old.
+Hello, my name is Bob and I am 25 years old.
+It's my birthday! I am now 31 years old.
+I've changed my name to Robert.
+```
+
 ### Methods
+```
+$ ruby method.rb
+```
+
+```
+$ ruby method2.rb
+```
+
+```
+$ ruby parameter.rb
+```
+
+```
+$ ruby hash_params.rb
+```
+
+```
+$ ruby block.rb
+```
+
+```
+$ ruby variable_length.rb
+```
+
+```
+$ ruby passing_block_arguments.rb
+```
 #### Method Name
 #### super
-### Symbols
-
-### Statement Modifier
-### Blocks
-### Commenting Ruby
-### Classes and Objects
-#### Objects and Attributes
-#### Access Control
 ### Proc and Lambda
 #### Passing block arguments
 ### Enumerator
