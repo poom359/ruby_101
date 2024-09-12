@@ -185,8 +185,4 @@ $ ruby variable_length.rb
 ```
 $ ruby passing_block_arguments.rb
 ```
-#### Method Name
-#### super
-### Proc and Lambda
-#### Passing block arguments
-### Enumerator
+
