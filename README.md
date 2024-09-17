@@ -56,8 +56,6 @@ I'm playing gin joint
 $ ruby hello.rb
 Hello, Rick, and Goodbye!
 Hello, Lori, and Goodbye!
-main
-Object
 ```
 
 Practice time, write a ruby code which will give output like this:
