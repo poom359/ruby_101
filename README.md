@@ -169,15 +169,15 @@ $ ruby parameter.rb
 ```
 
 ```
+$ ruby variable_length.rb
+```
+
+```
 $ ruby hash_params.rb
 ```
 
 ```
 $ ruby block.rb
-```
-
-```
-$ ruby variable_length.rb
 ```
 
 ```
